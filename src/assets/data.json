@@ -1,0 +1,41 @@
+{
+  "projects": [
+    {
+      "date": "07/3/2022",
+      "title": "WEATHER-CHECKER-APP",
+      "description": "This is a simple weather-checker app using reactjs,usestate,useeffect ,API fetch",
+      "url": "https://weather-checker-sepia.vercel.app/",
+      "imgSrc": "https://images2.imgbox.com/6b/ca/VJGH4dk4_o.png?download=true"
+    },
+
+    {
+      "date": "15/3/2022",
+      "title": "TODO-LIST",
+      "description": "This is a simple TO-DO LIST app using reactjs,usestate,useeffect ,API fetch",
+      "url": "https://to-do-list-mu-red.vercel.app/",
+      "imgSrc": "https://images2.imgbox.com/57/98/2SFWA3po_o.png?download=true"
+    },
+    {
+      "date": "10/5/2022",
+      "title": "NETFLIX-OTT-CLONE",
+      "description": "This is a Netflix ott clone app using reactjs,usestate,useeffect ,API fetch",
+      "url": "https://netflix-ott-jet.vercel.app/",
+      "imgSrc": "https://images2.imgbox.com/aa/de/nzVbRDmY_o.png?download=true"
+    },
+
+    {
+      "date": "17/7/2022",
+      "title": "ECOMMERCE-CART",
+      "description": "This is a Ecommerce-cart app using reactjs,reduxtoolkit,usestate,useeffect ,API fetch",
+      "url": "https://ecommerce-cart-five.vercel.app/",
+      "imgSrc": "https://images2.imgbox.com/fe/3f/YkkGz9du_o.png?download=true"
+    },
+    {
+      "date": "22/10/2022",
+      "title": "PORTFOLIO",
+      "description": "This is my portfolio project with all my projects",
+      "url": "/",
+      "imgSrc": "https://images2.imgbox.com/5f/e0/QJ6feUs1_o.png?download=true"
+    }
+  ]
+}

@@ -35,6 +35,7 @@ const Services = () => {
         >
           <h3>3+</h3>
           <p>Years Experience</p>
+          <h3>2+ as freelancer</h3>
         </motion.div>
         <motion.div
           className="serviceBox2"
